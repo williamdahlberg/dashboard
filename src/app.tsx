@@ -47,15 +47,15 @@ const App = () => {
     <ThemeProvider theme={theme}>
       <GlobalStyle />
       <div>
-        <SearchBar search={searchData.response} />
+        {/* <SearchBar search={searchData.response} /> */}
         <Settings themes={themeData.response} search={searchData.response} />
         <Greeter greeter={greeterData.response} />
         <AppList
           apps={appData.response?.apps}
           categories={appData.response?.categories}
         />
-        <BookmarkList groups={bookmarkData.response?.groups} />
-        <Imprint imprint={imprintData.response} />
+        {/* <BookmarkList groups={bookmarkData.response?.groups} /> */}
+        {/* <Imprint imprint={imprintData.response} /> */}
       </div>
     </ThemeProvider>
   );
