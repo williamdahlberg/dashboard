@@ -1,6 +1,6 @@
 {
   "placeholder": "",
-  "defaultProvider": "https://google.com/search?q=",
+  "defaultProvider": "https://duckduckgo.com/?q=",
   "autoFocus": false,
   "providers": [
     {

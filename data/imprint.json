@@ -1,7 +1,7 @@
 {
   "imprint": {
     "name": {
-      "text": "John Doe",
+      "text": "Casa",
       "link": "#"
     },
     "address": {
@@ -20,6 +20,6 @@
       "text": "example.com",
       "link": "#"
     },
-    "text": "This is the place where you should put whatever you want it to say on the imprint page."
+    "text": "the imprintation"
   }
 }
